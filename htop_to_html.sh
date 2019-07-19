@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo q | htop | aha --black --line-fix > htop.html
